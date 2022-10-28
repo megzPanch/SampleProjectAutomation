@@ -1,1 +1,3 @@
-test
+publi class Test{
+
+}
