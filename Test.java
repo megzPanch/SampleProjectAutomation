@@ -1,1 +1,2 @@
-test
+public abstract class Test{
+}
