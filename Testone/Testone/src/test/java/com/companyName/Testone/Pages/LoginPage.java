@@ -35,7 +35,7 @@ public class LoginPage extends BasePageObject{
 		}
 	}
 	public void fillForm(String name,String email, String phone, String country, String company, String mess){
-		sendInputValue(nameof, ConfigProvider.getAsString("Input"));
+		sendInputValue(nameof,name);
 	}
 	
 }
