@@ -1,3 +1,4 @@
-publi class Test{
+
+public abstract class Test{
 
 }
